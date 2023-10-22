@@ -1,0 +1,117 @@
+/*fonts*/
+@import url('https://fonts.cdnfonts.com/css/comica');
+                
+
+/*all*/
+body{
+    background: rgb(196,244,221);
+    background: linear-gradient(90deg, rgba(196,244,221,1) 0%, rgba(157,194,250,1) 100%);
+}
+/*Navigation Bar*/
+.navbar{
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 15px;
+    padding-left:850px ;
+    text-align: center;
+    margin-left: -10px;
+    margin-right: -8.2px;
+    margin-top: -8.2px;
+    word-spacing: 10px;
+
+
+    
+}
+
+/*links*/
+.links{
+    display: inline;
+}
+/*link effects*/
+.links a:hover{
+    background-color: #BDD6FD;
+    }
+
+/*characteristics*/
+.linkdesign{  border-radius: 25px;
+    border: 1.5px solid #000000;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}
+
+
+/*HOME*/
+.headerhome{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 70px;
+    font-weight: 1000;
+    margin-left:450px;
+    margin-top: 200px;
+                                              
+}
+.subheaderhome{
+    font-family:cursive;
+    font-size: 40px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:400px;
+    margin-bottom: 0px;
+}
+
+/*bottom bar*/
+.bottombarhome
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -8px;
+    margin-top: 178px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:20px;
+        padding-left: 700px;
+        
+    }
+}
+
+    .letsgoo{
+        margin-left: 550px;
+        margin-top: 20px;
+}
+    .letsgobutton{  border-radius: 25px;
+        border: 1.5px solid #000000;
+        padding: 20px;
+        width: 200px;
+        height: 150px;
+        padding: 10px;
+        padding-left: 100px;
+        padding-right: 100px;
+        background-color: rgb(255, 255, 255);
+        font-family: cursive;
+        text-decoration: none;
+     color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
